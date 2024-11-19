@@ -1,7 +1,4 @@
-*.csproj
-*.sln
-.DS_Store
-.idea
+
 
 /builds/*
 /images/*
